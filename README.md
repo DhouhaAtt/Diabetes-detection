@@ -11,4 +11,4 @@ And you’ll see the model training details and model inference in your index.ht
 
 RESULT : 
 
-<img src="images/screenshot.png">
+<img src="images/screenshot.PNG">
